@@ -31,6 +31,11 @@ const questions = [
     name: 'usage',
     message: 'How do you use this application?'
 },
+{
+    type: 'input',
+    name: 'contributing',
+    message: 'Were there any contributors to this project?'
+}
 
 
 
