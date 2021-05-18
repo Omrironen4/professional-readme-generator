@@ -1,11 +1,12 @@
 
-# Professional ReadMe Generator 
+# Professional Readme Generator 
 
 ## License section
 ![GitHub Logo](https://img.shields.io/badge/license-MIT-brightgreen)  
 https://choosealicense.com/licenses/mit/#
 
-
+## Walk-through Video 
+[Screencastify](https://drive.google.com/file/d/1HDfRueEOTdsaocSlia7IzKquC_BmP2jG/view)
 
   ## Table of contents 
   * [ Installation ](#Installation)
@@ -22,7 +23,7 @@ Go to my github repository for creating a professional readme, clone the reposit
 Simply follow the prompted questions after running "node index.js" in the terminal. This will create a professional Readme.md file.
 
 ## Description 
-To create a professional readme file using inquirer node.js
+To create a readme file using inquirer node.js
 
 ## Contributions
 In this project there were none!
