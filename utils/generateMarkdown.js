@@ -45,7 +45,8 @@ function generateMarkdown(data) {
 ${renderLicenseBadge(data.license)}  
 ${renderLicenseLink(data.license)}
 
-
+## Walk-through Video 
+[Screencastify] (https://drive.google.com/file/d/1l0Ra53tNB0HtObEABYWnpZoyrNcg8jsU/view)
 
   ## Table of contents 
   * [ Installation ](#Installation)
