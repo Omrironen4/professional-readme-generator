@@ -35,7 +35,23 @@ const questions = [
     type: 'input',
     name: 'contributing',
     message: 'Were there any contributors to this project?'
+},
+{
+    type: 'input',
+    name: 'testing',
+    message: 'What are some test instructions for the application?'
+},
+{
+    type: 'input',
+    name: 'github',
+    message: 'What is your GitHub username?'
+},
+{
+    type: 'input',
+    name: 'email',
+    message: 'What is your email address?'
 }
+
 
 
 
